@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/110815978/200298653-4c3fdbff-b1bf-4a2e-ab9b-394c9f3f7b14.png)
+<h1 align="center" > 👋 Hello, I'm Lakshmi Ananthaneni </h1>
 
-                                                 👋 Hi, I’m Lakshmi Ananthaneni
-  😄  I'm a passionate Software Developer
+  <p align="center">😄  I'm a passionate Software Developer</p>
+  
 - 🔭 I’m currently working on E-Commerce App
 - 🌱 I’m currently learning FullStack Development at Integrify
 - .👯 I’m looking to collaborate on fullstack project
